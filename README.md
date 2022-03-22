@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 
 ## week05 
 keyboard
-```
+```C++
 #include <GL/glut.h>
 #include <stdio.h>
 void display()
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
 }
 ```
 keyboard+mouse+motion
-```
+```C++
 #include <GL/glut.h>
 #include <stdio.h>
 float x=0, y=0, z=0;
@@ -123,7 +123,7 @@ int main(int argc, char** argv)
 }
 ```
 scale放大縮小功能
-```
+```C++
 #include <GL/glut.h>
 #include <stdio.h>
 float x=150, y=150, z=0,scale=1.0;
