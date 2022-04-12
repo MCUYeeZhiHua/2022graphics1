@@ -170,7 +170,7 @@ int main(int argc, char** argv)
 
 ```
 
-##week06_light
+## week06_light
 ```C++
 #include <GL/glut.h>
 const GLfloat light_ambient[]  = { 0.0f, 0.0f, 0.0f, 1.0f };
@@ -223,7 +223,7 @@ int main(int argc, char** argv)
 
 ```
 
-##week06_light_mouse_motion_rotate
+## week06_light_mouse_motion_rotate
 ```C++
 #include <GL/glut.h>
 #include <stdio.h>
@@ -297,7 +297,7 @@ int main(int argc, char** argv)
     glutMainLoop();
 }
 ```
-##week08_model
+## week08_model
 ```C++
 #include <GL/glut.h>///角括號，是系統的 include 裡的檔案
 #include "glm.h" ///雙引號，同目錄裡的檔案
