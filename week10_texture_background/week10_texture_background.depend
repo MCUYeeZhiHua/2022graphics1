@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1650939634 source:c:\users\msi\desktop\week10_texture_background\main.cpp
+	<GL/glut.h>
+	<opencv/cv.h>
+	<opencv/highgui.h>
+
+1426320928 c:\users\msi\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\msi\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
